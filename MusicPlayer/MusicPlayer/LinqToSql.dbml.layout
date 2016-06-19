@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LinqToSql">
+  <DataContextMoniker Name="/LinqToSqlDataContext" />
+  <nestedChildShapes>
+    <classShape Id="97bf350c-fec8-4891-99b2-fc91ad9df4af" absoluteBounds="0.5, 1, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/LinqToSqlDataContext/TrackTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="108b079f-1498-4b3f-a09c-12126577968f" absoluteBounds="0.51500000000000012, 1.46, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="40ce57e8-58a6-4b82-8ed3-81e1a9320a8c" absoluteBounds="5.5, 1.25, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/LinqToSqlDataContext/PlaylistTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6801fb49-bd57-42c4-9a5d-4ca314952af9" absoluteBounds="5.515, 1.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="071fa8f3-91a6-4b55-a8cb-6471477d0c1e" absoluteBounds="3.125, 1.375, 2, 1.3862939453125">
+      <DataClassMoniker Name="/LinqToSqlDataContext/PlaylistDetailTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f17be2e6-298c-43e4-9b99-c34a4f31edb0" absoluteBounds="3.14, 1.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 1.90949625651042); (5.125 : 1.90949625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LinqToSqlDataContext/PlaylistTable/PlaylistTable_PlaylistDetailTable" />
+      <nodes>
+        <classShapeMoniker Id="40ce57e8-58a6-4b82-8ed3-81e1a9320a8c" />
+        <classShapeMoniker Id="071fa8f3-91a6-4b55-a8cb-6471477d0c1e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.5 : 2.06814697265625); (3.125 : 2.06814697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LinqToSqlDataContext/TrackTable/TrackTable_PlaylistDetailTable" />
+      <nodes>
+        <classShapeMoniker Id="97bf350c-fec8-4891-99b2-fc91ad9df4af" />
+        <classShapeMoniker Id="071fa8f3-91a6-4b55-a8cb-6471477d0c1e" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

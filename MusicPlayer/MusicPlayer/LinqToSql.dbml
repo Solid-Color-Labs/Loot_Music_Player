@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="TrackDB" Class="LinqToSqlDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\TrackDB.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="MusicPlayer.Properties.Settings" SettingsPropertyName="MusicPlayerDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Track" Member="TrackTables">
+    <Type Name="TrackTable">
+      <Column Name="Track_Id" AutoSync="Never" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Title" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Album" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Artist" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Duration" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="Path" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="Image_Path" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Association Name="TrackTable_PlaylistDetailTable" Member="PlaylistDetailTables" ThisKey="Track_Id" OtherKey="Track_Id" Type="PlaylistDetailTable" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Playlist" Member="PlaylistTables">
+    <Type Name="PlaylistTable">
+      <Column Name="Playlist_Id" AutoSync="Never" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Title" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Association Name="PlaylistTable_PlaylistDetailTable" Member="PlaylistDetailTables" ThisKey="Playlist_Id" OtherKey="Playlist_Id" Type="PlaylistDetailTable" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Playlist_Detail" Member="PlaylistDetailTables">
+    <Type Name="PlaylistDetailTable">
+      <Column Name="Playlist_Detail_Id" AutoSync="Never" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Playlist_Id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Track_Id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="PlaylistTable_PlaylistDetailTable" Member="PlaylistTable" ThisKey="Playlist_Id" OtherKey="Playlist_Id" Type="PlaylistTable" IsForeignKey="true" />
+      <Association Name="TrackTable_PlaylistDetailTable" Member="TrackTable" ThisKey="Track_Id" OtherKey="Track_Id" Type="TrackTable" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

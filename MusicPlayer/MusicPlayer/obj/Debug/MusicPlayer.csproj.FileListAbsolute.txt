@@ -1,0 +1,136 @@
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Resources\default_album_art.png
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Resources\plus_icon.png
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Resources\shuffle_selected_icon.png
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Resources\play_icon.png
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Resources\pause_icon.png
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Resources\repeat_icon.png
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Resources\repeat_selected_icon.png
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\TrackDB.mdf
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\TrackDB_log.ldf
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Resources\shuffle_icon.png
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\MahApps.Metro.dll
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\taglib-sharp.dll
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\MahApps.Metro.pdb
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\MahApps.Metro.xml
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\Resources\Icons.baml
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\TrackView.baml
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\CurrentlyPlayingView.baml
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\HeaderMenu.baml
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\MusicControlView.baml
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\PlaylistView.baml
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\SearchBoxView.baml
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\TrackControlView.baml
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\Resources\Icons.g.cs
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\TrackView.g.cs
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\CurrentlyPlayingView.g.cs
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\HeaderMenu.g.cs
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\MusicControlView.g.cs
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\PlaylistView.g.cs
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\SearchBoxView.g.cs
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\TrackControlView.g.cs
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\App.g.cs
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_Content.g.cs
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.cache
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.lref
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\App.baml
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.baml
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.g.resources
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+C:\Users\oklesing\Dropbox\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Resources\default_album_art.png
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Resources\plus_icon.png
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Resources\shuffle_selected_icon.png
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Resources\play_icon.png
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Resources\pause_icon.png
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Resources\repeat_icon.png
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Resources\repeat_selected_icon.png
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\TrackDB.mdf
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\TrackDB_log.ldf
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Resources\shuffle_icon.png
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\GalaSoft.MvvmLight.dll
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\MahApps.Metro.dll
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Expression.Interactions.dll
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Newtonsoft.Json.dll
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\policy.2.0.taglib-sharp.dll
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\System.Windows.Interactivity.dll
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\taglib-sharp.dll
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\GalaSoft.MvvmLight.pdb
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\GalaSoft.MvvmLight.xml
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\MahApps.Metro.pdb
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\MahApps.Metro.xml
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Expression.Interactions.xml
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\Newtonsoft.Json.xml
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\bin\Debug\policy.2.0.taglib-sharp.config
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\Resources\Icons.baml
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\TrackView.baml
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\HeaderMenu.baml
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\MusicControlView.baml
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\PlaylistView.baml
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\TrackControlView.baml
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.g.cs
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\Resources\Icons.g.cs
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\TrackView.g.cs
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\CurrentlyPlayingView.g.cs
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\HeaderMenu.g.cs
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\MusicControlView.g.cs
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\PlaylistView.g.cs
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\SearchBoxView.g.cs
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\TrackControlView.g.cs
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\App.g.cs
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_Content.g.cs
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.cache
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.lref
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\App.baml
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.baml
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\CurrentlyPlayingView.baml
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\View\SearchBoxView.baml
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.g.resources
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+\\GL385-MCMURTREY\Users\sdm9568\Dropbox\CIS 465 - Student Data Files\465-OliverKlesing\Final Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache

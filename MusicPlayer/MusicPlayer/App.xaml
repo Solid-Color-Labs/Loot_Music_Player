@@ -1,0 +1,33 @@
+<Application x:Class="MusicPlayer.App" 
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             StartupUri="MainWindow.xaml" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             d1p1:Ignorable="d" 
+             xmlns:d1p1="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:MusicPlayer.ViewModel">
+
+    <!-- The resource directory xaml files are part of a 
+    library called Mahapps metro (https://github.com/MahApps/MahApps.Metro).  
+    Mahapps metro makes it possible to build a modern looking WPF application
+    from the start.
+    Throughout the application, almost no styles are used, as the metro library
+    handles all of that.-->
+    <Application.Resources>
+        <ResourceDictionary>
+            <!-- The MVVM light ViewModelLocator is declared here, in the app.xaml.
+                 It allows a viewmodel to be used as a views datacontext from
+                 anywhere in the application.
+            -->
+            <vm:ViewModelLocator x:Key="Locator" d:IsDataSource="True" />
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Colors.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/orange.xaml" /> 
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/basedark.xaml" />
+                <ResourceDictionary Source="/Resources/Icons.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
